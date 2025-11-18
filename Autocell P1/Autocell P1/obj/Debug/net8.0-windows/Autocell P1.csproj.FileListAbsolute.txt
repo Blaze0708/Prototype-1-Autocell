@@ -1,0 +1,16 @@
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell_P1.Form1.resources
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.csproj.GenerateResource.cache
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.AssemblyInfoInputs.cache
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.AssemblyInfo.cs
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.csproj.CoreCompileInputs.cache
+Z:\1st C#\Autocell P1\Autocell P1\bin\Debug\net8.0-windows\Autocell P1.exe
+Z:\1st C#\Autocell P1\Autocell P1\bin\Debug\net8.0-windows\Autocell P1.deps.json
+Z:\1st C#\Autocell P1\Autocell P1\bin\Debug\net8.0-windows\Autocell P1.runtimeconfig.json
+Z:\1st C#\Autocell P1\Autocell P1\bin\Debug\net8.0-windows\Autocell P1.dll
+Z:\1st C#\Autocell P1\Autocell P1\bin\Debug\net8.0-windows\Autocell P1.pdb
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.dll
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\refint\Autocell P1.dll
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.pdb
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\Autocell P1.genruntimeconfig.cache
+Z:\1st C#\Autocell P1\Autocell P1\obj\Debug\net8.0-windows\ref\Autocell P1.dll
